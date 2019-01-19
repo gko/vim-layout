@@ -13,17 +13,17 @@ This vim plugin allows you to quickly switch between layouts:
 ### Double
 <kbd>Leader key</kbd> <kbd>2</kbd>
 
-![double horizontal layout](https://github.com/gko/vim-layout/raw/master/single.png)
+![double horizontal layout](https://github.com/gko/vim-layout/raw/master/double-horizontal.png)
 
 or vertical
 
-![double vertical layout](https://github.com/gko/vim-layout/raw/master/single.png)
+![double vertical layout](https://github.com/gko/vim-layout/raw/master/double-vertical.png)
 
 ### Triple
 
 <kbd>Leader key</kbd> <kbd>3</kbd>
 
-![triple layout](https://github.com/gko/vim-layout/raw/master/single.png)
+![triple layout](https://github.com/gko/vim-layout/raw/master/triple.png)
 
 ## Installation
 
